@@ -12,9 +12,6 @@ The assignment includes:
 
 ---
 
-# Database Used
-college_db
-
 # Table Name
 students
 
@@ -129,13 +126,6 @@ SELECT * FROM students WHERE city='Delhi' AND marks>70;
 
 # Output
 The output of each query is included inside the **assignment.sql** file as comments.
-
----
-
-# Tools Used
-- MySQL / SQL
-- GitHub
-- VS Code
 
 ---
 
